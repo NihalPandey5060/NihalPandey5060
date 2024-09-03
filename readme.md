@@ -1,6 +1,6 @@
 # hello I'm Nihal
 
-## this Profile ReadMe file is currently under work
+## this Profile ReadMe file is still under work
 
 ![NihalPandey5060's Stats](https://github-readme-stats.vercel.app/api?username=NihalPandey5060&theme=synthwave&show_icons=true&hide_border=false&count_private=false)
 
