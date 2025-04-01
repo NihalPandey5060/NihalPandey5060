@@ -1,6 +1,6 @@
 # hello I'm Nihal
 
-## this Profile ReadMe file is still under work
+## this Profile ReadMe file is still under work because it is what it is
 
 ![NihalPandey5060's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NihalPandey5060&theme=synthwave&hide_border=false)
 
