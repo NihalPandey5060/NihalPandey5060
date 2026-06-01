@@ -2,14 +2,137 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%AB+About+me%3A)](https://git.io/typing-svg)
 
-🎓 Computer Science Engineering Student at **Amrita Vishwa Vidyapeetham**<br><br>
-💻 Passionate about Full Stack Web Development and Deep Learning<br><br>
-🌐 Experienced in building responsive and dynamic web apps using **Vue.js**, **JavaScript**, and **TypeScript**<br><br>
-🧠 Enthusiast in AI and ML | Working with **TensorFlow**, **PyTorch**, and **Keras** on exciting Deep Learning projects<br><br>
-📈 Regular contributor to Open Source | Learning DevOps and System Design<br><br>
-🚀 Always exploring new technologies and eager to collaborate on impactful projects<br><br>
-🤝 Actively seeking internships and research opportunities in AI/ML and Web Technologies<br><br>
+# Hi, I'm Nihal Pandey 👋
 
+Computer Science graduate focused on building full-stack applications, AI-powered tools, and creative projects that combine technology with storytelling.
+
+I enjoy taking ideas from a blank page to a working product — designing APIs, building frontends, integrating AI services, and figuring out how everything fits together. Alongside software development, I explore Blender, cinematic storytelling, and worldbuilding projects.
+
+Currently working toward software engineering opportunities while building projects that strengthen my skills in backend systems, modern web development, and AI integration.
+
+---
+
+## 🔧 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML & CSS
+
+### Backend
+- Python
+- FastAPI
+- Django
+- REST APIs
+- JWT Authentication
+
+### Databases
+- PostgreSQL
+- SQLite
+- Firebase
+
+### AI & Data
+- Gemini API
+- OpenAI APIs
+- Prompt Engineering
+- AI-powered Applications
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Blender
+
+---
+
+## 🚀 Current Projects
+
+### 🎾 Padel Discovery
+Location-based platform for discovering padel courts, clubs, coaches, and equipment stores. Exploring AI-assisted recommendations and search experiences.
+
+### 🎬 Aurora
+A long-form industrial thriller project focused on worldbuilding, screenplay development, visual design, and cinematic storytelling.
+
+### 🤖 AI Experiments
+Building small tools and applications using LLMs, automation workflows, and modern AI APIs.
+
+---
+
+## 💼 What I Like Building
+
+- Full-stack web applications
+- AI-powered products
+- Developer tools
+- Location-based platforms
+- Automation workflows
+- Interactive user experiences
+
+---
+
+## 📈 Current Mission
+
+```text
+STATUS: ACTIVE
+
+Primary Objectives
+
+[✓] Graduate
+[✓] Build Public Projects
+[✓] Learn Modern Full-Stack Development
+[✓] Explore AI Applications
+[ ] Land Software Engineering Role
+[ ] Ship Production Product
+
+Current Focus:
+Next.js • FastAPI • AI Engineering • Blender
+```
+
+---
+
+## 📊 Skill Progress
+
+```text
+Python          ████████░░ 80%
+Next.js         ███████░░░ 70%
+AI Engineering  ██████░░░░ 60%
+System Design   ████░░░░░░ 40%
+Blender         ███░░░░░░░ 30%
+```
+
+---
+
+## 🎯 Philosophy
+
+```text
+Build.
+Ship.
+Learn.
+Repeat.
+```
+
+The fastest way to improve is to create things, break them, fix them, and keep moving forward.
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎾 Padel Discovery | AI-powered platform for discovering padel courts, clubs, and coaches |
+| 🎬 Aurora | Industrial thriller and worldbuilding project |
+| 🤖 AI Experiments | Collection of AI-powered tools and prototypes |
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
+- GitHub: https://github.com/NihalPandey5060
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&center=false&repeat=true&random=true&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: flex-start;">
